@@ -1,0 +1,92 @@
+[
+    {
+        "timestamp": "2025-04-05T13:25:44.796831",
+        "type": "Tree Planting",
+        "location": "Soweto",
+        "description": "Planted 30 trees near the river bank."
+    },
+    {
+        "timestamp": "2025-04-05T13:25:44.796849",
+        "type": "Recycling Campaign",
+        "location": "Braamfontein",
+        "description": "Collected 200 kg of plastic."
+    },
+    {
+        "timestamp": "2025-04-05T13:25:44.796859",
+        "type": "Educational Outreach",
+        "location": "UJ Campus",
+        "description": "Hosted a workshop on sustainability."
+    },
+    {
+        "timestamp": "2025-04-05T13:26:41.469993",
+        "type": "Tree Planting",
+        "location": "Soweto",
+        "description": "Planted 30 trees near the river bank."
+    },
+    {
+        "timestamp": "2025-04-05T13:26:41.470025",
+        "type": "Recycling Campaign",
+        "location": "Braamfontein",
+        "description": "Collected 200 kg of plastic."
+    },
+    {
+        "timestamp": "2025-04-05T13:26:41.470044",
+        "type": "Educational Outreach",
+        "location": "UJ Campus",
+        "description": "Hosted a workshop on sustainability."
+    },
+    {
+        "timestamp": "2025-04-05T13:27:42.974977",
+        "type": "Tree Planting",
+        "location": "Soweto",
+        "description": "Planted 30 trees near the river bank."
+    },
+    {
+        "timestamp": "2025-04-05T13:27:42.974998",
+        "type": "Recycling Campaign",
+        "location": "Braamfontein",
+        "description": "Collected 200 kg of plastic."
+    },
+    {
+        "timestamp": "2025-04-05T13:27:42.975011",
+        "type": "Educational Outreach",
+        "location": "UJ Campus",
+        "description": "Hosted a workshop on sustainability."
+    },
+    {
+        "timestamp": "2025-04-05T13:28:13.614463",
+        "type": "Tree Planting",
+        "location": "Soweto",
+        "description": "Planted 30 trees near the river bank."
+    },
+    {
+        "timestamp": "2025-04-05T13:28:13.614484",
+        "type": "Recycling Campaign",
+        "location": "Braamfontein",
+        "description": "Collected 200 kg of plastic."
+    },
+    {
+        "timestamp": "2025-04-05T13:28:13.614496",
+        "type": "Educational Outreach",
+        "location": "UJ Campus",
+        "description": "Hosted a workshop on sustainability."
+    },
+    {
+        "timestamp": "2025-04-05T13:28:23.055889",
+        "type": "Tree Planting",
+        "location": "Soweto",
+        "description": "Planted 30 trees near the river bank."
+    },
+    {
+        "timestamp": "2025-04-05T13:28:23.055907",
+        "type": "Recycling Campaign",
+        "location": "Braamfontein",
+        "description": "Collected 200 kg of plastic."
+    },
+    {
+        "timestamp": "2025-04-05T13:28:23.055918",
+        "type": "Educational Outreach",
+        "location": "UJ Campus",
+        "description": "Hosted a workshop on sustainability."
+    }
+]
